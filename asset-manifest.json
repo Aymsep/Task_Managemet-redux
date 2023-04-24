@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task_Managemet-redux/static/css/main.21cbafb5.css",
+    "main.js": "/Task_Managemet-redux/static/js/main.efa05cbe.js",
+    "index.html": "/Task_Managemet-redux/index.html",
+    "main.21cbafb5.css.map": "/Task_Managemet-redux/static/css/main.21cbafb5.css.map",
+    "main.efa05cbe.js.map": "/Task_Managemet-redux/static/js/main.efa05cbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21cbafb5.css",
+    "static/js/main.efa05cbe.js"
+  ]
+}
